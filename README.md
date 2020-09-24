@@ -33,6 +33,6 @@
 
 
 [website]: https://bmontassier.fr
-[twitter]: https://twitter.com/bmontassier_
+[twitter]: https://twitter.com/_bmontassier
 [intellij]: https://www.jetbrains.com/idea/
 [github]: https://www.github.com/bmontassier
