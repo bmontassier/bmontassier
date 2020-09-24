@@ -28,11 +28,11 @@
 
 ---
 
-<img align="left" alt="Hexeptions's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexeption&show_icons=true&hide_border=true&theme=radical" />
-<img align="right" alt="Hexeptions's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hexeption&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="bmontassier's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmontassier&show_icons=true&hide_border=true&theme=radical" />
+<img align="right" alt="bmontassier's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bmontassier&show_icons=true&hide_border=true&theme=radical" />
 
 
 [website]: https://bmontassier.fr
-[twitter]: https://twitter.com/realhexeption
+[twitter]: https://twitter.com/bmontassier_
 [intellij]: https://www.jetbrains.com/idea/
 [github]: https://www.github.com/bmontassier
