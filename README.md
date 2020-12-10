@@ -1,15 +1,17 @@
 ### Hi there, I'm [Bryan Montassier][website] 👋
 
-## I'm a Full Stack Developer.
-- 🌋 I’m currently working in a 
-- 🥅 2020 Goals: Have Magma 1.16 and 1.15 out by the end of the year
+## I'm a Full Stack Developer and streamer.
+- 🌋 I’m currently working in a French company, in R&D
+- 🥅 2021 Goals: 🏡 House, Development and Twitch affiliate
 
-### Connect with me:
+### Socials:
 
-[<img align="left" alt="hexeption.co.uk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="hexeption | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="hexeption | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="hexeption | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="bmontassier.fr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="GhostyManiakk | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="GhostyManiakk | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="GhostyManiakk | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
+[<img align="left" alt="GhostyManiakk | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+
 
 <br />
 
@@ -33,6 +35,7 @@
 
 
 [website]: https://bmontassier.fr
+[youtube]: https://youtube.com/c/GhostyManiakk
 [twitter]: https://twitter.com/_bmontassier
-[intellij]: https://www.jetbrains.com/idea/
+[discord]: GhostyManiakk#8670
 [github]: https://www.github.com/bmontassier
