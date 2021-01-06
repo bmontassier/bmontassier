@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Developer and streamer.
 - 🌋 I’m currently working in a French company, in R&D
-- 🥅 2021 Goals: 🏡 House, Development and Twitch affiliate
+- 🥅 2021 Goals: 🏡 House, Development and Twitch affiliate(✅ 31/12/2020)
 
 ### Socials:
 
