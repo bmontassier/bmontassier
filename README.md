@@ -9,7 +9,7 @@
 	- 🏡 House
 	- 💻Development with @OverCodeFR (2 applications)
 	- 📹Twitch affiliate (✅31/12/2020)
-	- 🐕Adopt a dog
+	- 🐕Adopt a dog or a cat🐈
 
 ### Socials:
 
