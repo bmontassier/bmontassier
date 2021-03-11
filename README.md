@@ -29,7 +29,7 @@
 
 [website]: https://bmontassier.fr
 [youtube]: https://youtube.com/c/GhostyManiakk
-[twitter]: https://twitter.com/_bmontassier
+[twitter]: https://twitter.com/ghostymaniakk
 [twitch]: https://twitch.tv/GhostyManiakk
 [discord]: GhostyManiakk#8670
 [github]: https://www.github.com/bmontassier
