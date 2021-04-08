@@ -2,12 +2,12 @@
 
 ### I'm a Full Stack Developer and streamer.
 
-- 🌋I am currently working at Yellow Network as R&D Manager
+- 🌋I am currently working as an R&D Manager
 - 👑 Founder of @OverCodeFR
 - 📹 Twitch Streamer
 - 🗓2021 Goals : 
 	- 🏡 House
-	- 💻Development with @OverCodeFR (2 applications)
+	- 💻Development with @OverCodeFR
 	- 📹Twitch affiliate (✅31/12/2020)
 	- 🐕Adopt a dog or a cat🐈
 
