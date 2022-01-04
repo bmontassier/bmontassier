@@ -22,8 +22,8 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="bmontassier's Github Stats" src="https://github-readme-stats-bmontassier.vercel.app/api/top-langs/?username=bmontassier&show_icons=true&hide_border=true&theme=outrun" />
-<img align="right" alt="bmontassier's Github Stats" src="https://github-readme-stats-bmontassier.vercel.app/api?username=bmontassier&show_icons=true&hide_border=true&theme=outrun" />
+<img align="left" alt="bmontassier's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmontassier&&show_icons=true&count_private=true&theme=outrun" />
+<img align="right" alt="bmontassier's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bmontassier&show_icons=true&count_private=true&theme=outrun" />
 
 
 [website]: https://overcode.fr
