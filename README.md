@@ -18,14 +18,6 @@
 [<img align="left" alt="OverCode | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter2]
 [<img align="left" alt="GhostyManiakk | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="bmontassier's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmontassier&&show_icons=true&count_private=true&&langs_count=5&theme=outrun" />
-<img align="right" alt="bmontassier's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bmontassier&show_icons=true&count_private=true&theme=outrun" />
-
-
 [website]: https://overcode.fr
 [youtube]: https://youtube.com/c/GhostyManiakk
 [twitter]: https://twitter.com/bmontassier_
