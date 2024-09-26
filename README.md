@@ -4,11 +4,6 @@
 
 - 🌋I am currently working as Freelance
 - 👑 Founder of @OverCodeFR
-- 📹 Twitch Streamer
-- 🗓2023 Goals : 
-	- 🏡House
-	- 💻Development with @OverCodeFR
-	- 🐕Adopt a dog or a cat🐈
 
 ### Socials:
 
